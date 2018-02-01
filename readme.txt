@@ -13,3 +13,4 @@ feel shity
 
 happy git hub
 
+install github
